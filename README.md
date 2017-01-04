@@ -1,4 +1,4 @@
-# [FitNesse](http://fitnesse.org/)  [![maven central](https://maven-badges.herokuapp.com/maven-central/org.fitnesse/fitnesse/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/org.fitnesse/fitnesse) [![SonarQube Tech Debt](https://img.shields.io/sonar/http/nemo.sonarqube.org/org.fitnesse:fitnesse/tech_debt.svg)](http://nemo.sonarqube.org/dashboard/index?id=org.fitnesse%3Afitnesse)
+# [FitNesse](http://fitnesse.org/) [![Build Status](https://travis-ci.org/ProjectLeadGirl2/fitnesse.svg?branch=master)](https://travis-ci.org/ProjectLeadGirl2/fitnesse)
 
 Welcome to FitNesse, the fully integrated stand-alone acceptance testing framework and wiki.
 
